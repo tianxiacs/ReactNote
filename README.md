@@ -1,5 +1,5 @@
 # Introduction
-https://react-note-xia.netlify.app \
+Link: https://react-note-xia.netlify.app \
 This project is used to practice React.\
 This is an updated note app from the vanila JS version in another repo.
 
